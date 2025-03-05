@@ -1,70 +1,58 @@
-# <div align="center" style="color: #FF1493; background-color: black; padding: 10px;">Hi 👋, I'm raivokinne</div>
+<div align="center" style="background-color: black; color: pink; padding: 20px; border-bottom: 3px solid deeppink;">
 
-## <div align="center" style="color: #FF69B4;">A passionate developer from Latvia, Cēsis</div>
+# 👋 Raivo Kinne
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=raivokinne&label=Profile%20views&color=ff1493&style=flat" alt="raivokinne" /> 
-</p>
+### Passionate Developer from Latvia, Cēsis
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=raivokinne&theme=darkhub" alt="raivokinne" />
-  </a> 
-</p>
+[![Profile Views](https://komarev.com/ghpvc/?username=raivokinne&color=ff69b4&style=for-the-badge)](https://github.com/raivokinne)
 
-- 📫 How to reach me **raivokinne236@gmail.com**
+</div>
 
-## Connect with me:
-<!-- Add your social links here if desired -->
+## 🏆 Achievements
 
-## Languages and Tools:
-<p align="left" style="background-color: black; padding: 10px;">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="filter: invert(27%) sepia(51%) saturate(2878%) hue-rotate(346deg) brightness(104%) contrast(97%);"/> 
-  </a> 
-  <a href="https://golang.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40" style="filter: invert(13%) sepia(93%) saturate(7479%) hue-rotate(359deg) brightness(100%) contrast(116%);"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="filter: invert(73%) sepia(39%) saturate(1392%) hue-rotate(348deg) brightness(100%) contrast(97%);"/> 
-  </a> 
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" style="filter: invert(16%) sepia(80%) saturate(7498%) hue-rotate(358deg) brightness(100%) contrast(115%);"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="filter: invert(20%) sepia(96%) saturate(6191%) hue-rotate(341deg) brightness(95%) contrast(108%);"/> 
-  </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" style="filter: invert(27%) sepia(51%) saturate(2878%) hue-rotate(346deg) brightness(104%) contrast(97%);"/> 
-  </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="filter: invert(13%) sepia(93%) saturate(7479%) hue-rotate(359deg) brightness(100%) contrast(116%);"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="filter: invert(48%) sepia(13%) saturate(3207%) hue-rotate(190deg) brightness(95%) contrast(80%);"/> 
-  </a> 
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" style="filter: invert(48%) sepia(13%) saturate(3207%) hue-rotate(190deg) brightness(95%) contrast(80%);"/> 
-  </a> 
-  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40" style="filter: invert(27%) sepia(51%) saturate(2878%) hue-rotate(346deg) brightness(104%) contrast(97%);"/> 
-  </a> 
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" style="filter: invert(20%) sepia(96%) saturate(6191%) hue-rotate(341deg) brightness(95%) contrast(108%);"/> 
-  </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="filter: invert(27%) sepia(51%) saturate(2878%) hue-rotate(346deg) brightness(104%) contrast(97%);"/> 
-  </a>
-</p>
+<div align="center">
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raivokinne&show_icons=true&locale=en&layout=compact&theme=radical" alt="raivokinne" />
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=raivokinne&theme=darkhub&no-frame=true&title=Commits,Repositories,Stars,Followers)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=raivokinne&show_icons=true&locale=en&theme=radical" alt="raivokinne" />
-</p>
+</div>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raivokinne&theme=radical" alt="raivokinne" />
-</p>
+## 📧 Contact
+
+- **Email:** raivokinne236@gmail.com
+
+## 🛠️ Languages & Technologies
+
+<div align="center" style="background-color: black; padding: 15px; border-radius: 10px;">
+
+![C++](https://img.shields.io/badge/C++-%23660000?style=for-the-badge&logo=c%2B%2B&logoColor=pink)
+![Go](https://img.shields.io/badge/Go-%23660000?style=for-the-badge&logo=go&logoColor=pink)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23660000?style=for-the-badge&logo=javascript&logoColor=pink)
+![Laravel](https://img.shields.io/badge/Laravel-%23660000?style=for-the-badge&logo=laravel&logoColor=pink)
+![MySQL](https://img.shields.io/badge/MySQL-%23660000?style=for-the-badge&logo=mysql&logoColor=pink)
+![PHP](https://img.shields.io/badge/PHP-%23660000?style=for-the-badge&logo=php&logoColor=pink)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23660000?style=for-the-badge&logo=postgresql&logoColor=pink)
+![React](https://img.shields.io/badge/React-%23660000?style=for-the-badge&logo=react&logoColor=pink)
+![React Native](https://img.shields.io/badge/React%20Native-%23660000?style=for-the-badge&logo=react&logoColor=pink)
+![Rust](https://img.shields.io/badge/Rust-%23660000?style=for-the-badge&logo=rust&logoColor=pink)
+![SQLite](https://img.shields.io/badge/SQLite-%23660000?style=for-the-badge&logo=sqlite&logoColor=pink)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23660000?style=for-the-badge&logo=typescript&logoColor=pink)
+
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raivokinne&layout=compact&theme=radical&bg_color=000000&title_color=ff1493&text_color=ff69b4)](https://github.com/raivokinne)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raivokinne&show_icons=true&theme=radical&bg_color=000000&title_color=ff1493&text_color=ff69b4&icon_color=ff69b4)](https://github.com/raivokinne)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raivokinne&theme=radical&background=000000&ring=ff1493&fire=ff69b4&currStreakLabel=ff69b4)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center" style="background-color: black; color: pink; padding: 10px; margin-top: 20px;">
+
+**🌟 Thank you for visiting my profile! 🌟**
+
+</div>
