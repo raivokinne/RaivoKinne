@@ -62,25 +62,6 @@ Dedicated software engineer with expertise in modern web technologies and cross-
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=raivokinne&theme=nord&column=4&no-frame=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-</div>
-
----
-
-## Current Projects
-
-- **[Project Name]** - Brief description of your current project
-- **[Project Name]** - Brief description of another project you're working on
-
----
-
-## Open Source Contributions
-
-- Contributing to [project/repository name]
-- Active member of [community name]
-
----
-
-<div align="center">
 
 ### Let's Connect
 
