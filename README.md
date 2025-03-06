@@ -42,12 +42,9 @@
 ## 📊 GitHub Stats
 
 <div>
-<div>
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raivokinne&layout=compact&theme=radical&bg_color=000000&title_color=ff1493&text_color=ff69b4)](https://github.com/raivokinne)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raivokinne&layout=compact&theme=radical&bg_color=000000&title_color=ff1493&text_color=ff69b4)](https://github.com/raivokinne)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raivokinne&show_icons=true&theme=radical&bg_color=000000&title_color=ff1493&text_color=ff69b4&icon_color=ff69b4)](https://github.com/raivokinne)
-
-</div>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RaivoKinne&theme=radical&background=000000&ring=ff1493&fire=ff69b4&currStreakLabel=ff69b4)](https://git.io/streak-stats)
 
