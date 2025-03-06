@@ -1,57 +1,94 @@
-<div align="center" style="background-color: black; color: pink; padding: 20px; border-bottom: 3px solid deeppink;">
+<div align="center">
 
-# 👋 Raivo Kinne
+# Raivo Kinne
 
-### Passionate Developer from Latvia, Cēsis
+### Full-Stack Developer | Latvia, Cēsis
 
-[![Profile Views](https://komarev.com/ghpvc/?username=raivokinne&color=ff69b4&style=for-the-badge)](https://github.com/raivokinne)
+[![Profile Views](https://komarev.com/ghpvc/?username=raivokinne&color=ff69b4&style=flat-square)](https://github.com/raivokinne)
+[![Email](https://img.shields.io/badge/Email-raivokinne236%40gmail.com-ff69b4?style=flat-square&logo=gmail)](mailto:raivokinne236@gmail.com)
 
 </div>
 
-## 🏆 Achievements
+---
+
+## About Me
+
+Dedicated software engineer with expertise in modern web technologies and cross-platform development. Passionate about creating efficient, scalable solutions and continuously expanding my technical knowledge.
+
+---
+
+## Tech Stack
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=raivokinne&theme=darkhub&no-frame=true&title=Commits,Repositories,Stars,Followers)](https://github.com/ryo-ma/github-profile-trophy)
+### Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 </div>
 
-## 📧 Contact
+---
 
-- **Email:** raivokinne236@gmail.com
+## GitHub Metrics
 
-## 🛠️ Languages & Technologies
+<div align="center">
 
-<div align="center" style="background-color: black; padding: 15px; border-radius: 10px;">
-
-![C++](https://img.shields.io/badge/C++-%23660000?style=for-the-badge&logo=c%2B%2B&logoColor=pink)
-![Go](https://img.shields.io/badge/Go-%23660000?style=for-the-badge&logo=go&logoColor=pink)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23660000?style=for-the-badge&logo=javascript&logoColor=pink)
-![Laravel](https://img.shields.io/badge/Laravel-%23660000?style=for-the-badge&logo=laravel&logoColor=pink)
-![MySQL](https://img.shields.io/badge/MySQL-%23660000?style=for-the-badge&logo=mysql&logoColor=pink)
-![PHP](https://img.shields.io/badge/PHP-%23660000?style=for-the-badge&logo=php&logoColor=pink)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23660000?style=for-the-badge&logo=postgresql&logoColor=pink)
-![React](https://img.shields.io/badge/React-%23660000?style=for-the-badge&logo=react&logoColor=pink)
-![React Native](https://img.shields.io/badge/React%20Native-%23660000?style=for-the-badge&logo=react&logoColor=pink)
-![Rust](https://img.shields.io/badge/Rust-%23660000?style=for-the-badge&logo=rust&logoColor=pink)
-![SQLite](https://img.shields.io/badge/SQLite-%23660000?style=for-the-badge&logo=sqlite&logoColor=pink)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23660000?style=for-the-badge&logo=typescript&logoColor=pink)
+<a href="https://github.com/raivokinne">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raivokinne&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raivokinne&layout=compact&theme=dracula" />
+</a>
 
 </div>
 
-## 📊 GitHub Stats
+---
 
-<div>
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raivokinne&layout=compact&theme=radical&bg_color=000000&title_color=ff1493&text_color=ff69b4)](https://github.com/raivokinne)
+## Achievements
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raivokinne&show_icons=true&theme=radical&bg_color=000000&title_color=ff1493&text_color=ff69b4&icon_color=ff69b4)](https://github.com/raivokinne)
+<div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RaivoKinne&theme=radical&background=000000&ring=ff1493&fire=ff69b4&currStreakLabel=ff69b4)](https://git.io/streak-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=raivokinne&theme=nord&column=4&no-frame=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
-<div align="center" style="background-color: black; color: pink; padding: 10px; margin-top: 20px;">
+---
 
-**🌟 Thank you for visiting my profile! 🌟**
+## Current Projects
+
+- **[Project Name]** - Brief description of your current project
+- **[Project Name]** - Brief description of another project you're working on
+
+---
+
+## Open Source Contributions
+
+- Contributing to [project/repository name]
+- Active member of [community name]
+
+---
+
+<div align="center">
+
+### Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/raivokinne)
+
+<br>
+
+**Thank you for visiting my profile!**
 
 </div>
