@@ -66,12 +66,6 @@
 
 </div>
 
-## 🌱 Current Projects
-
-- 🔭 Working on **[Your Current Project]**
-- 🌱 Learning **[New Technology]**
-- 👯 Looking to collaborate on **open-source projects**
-
 <div align="center">
   
 ## ✨ Let's Connect!
