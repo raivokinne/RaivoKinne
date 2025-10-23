@@ -34,8 +34,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raivokinne&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raivokinne&theme=tokyonight&hide_border=true)
-
 </div>
 
 ## 🏆 GitHub Trophies
