@@ -1,18 +1,8 @@
 # Hi there, I'm Raivo Kinne 👋
 
 [![Website](https://img.shields.io/badge/Website-raivokinne.website-blue?style=flat-square&logo=google-chrome)](https://www.raivokinne.website)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
 
-## 🚀 About Me
-
-I'm a **Full Stack Developer** passionate about building robust and scalable applications. I enjoy working across the entire stack, from low-level systems programming to modern web interfaces.
-
-- 🔭 Currently working on exciting full-stack projects
-- 🌱 Always learning and exploring new technologies
-- 💡 Love solving complex problems with elegant solutions
-- 📍 Based in Riga, Latvia
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -60,22 +50,3 @@ I'm a **Full Stack Developer** passionate about building robust and scalable app
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=raivokinne&theme=tokyo-night&hide_border=true)
 
-## 💼 What I Do
-
-- 🔧 Build high-performance backend systems with **Rust**, **Go**, and **C++**
-- 🌐 Develop modern web applications using **React**, **Laravel**, and **Node.js**
-- 🎨 Create responsive UIs with **TailwindCSS** and **HTMX**
-- ⚡ Optimize development workflows with **Neovim** and **Tmux**
-
-## 📫 Get in Touch
-
-- 🌐 Website: [raivokinne.website](https://www.raivokinne.website)
-- 📧 Email: raiovkinne236@gmail.com
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=raivokinne&color=blueviolet&style=flat-square)
-
-</div>
